@@ -1,0 +1,133 @@
+
+      nav{
+        background-color: #fff;
+        -webkit-box-shadow: 0 0 5px 0 #C9C9C9;
+        box-shadow: 0 0 5px 0 #C9C9C9;
+      }
+      .btn-menu{
+        margin-right: 20px;
+        padding: 5px;
+      }
+      .btn-menu :hover {
+        background-color: #f39c12;
+      }
+
+      #home{
+      	max-height: 720px;
+      }
+
+
+      #about{
+      	padding: 50px;
+        background: none;
+        margin-top: 50px;
+      }
+
+      .cordnoborder{
+      	border: 0px !important;
+        background-color: transparent !important;
+      }
+
+      .btn-primary{
+      	background-color: #f39c12 !important;
+      }
+
+      .box-image{
+        margin: -10px;
+      }
+
+      .box-image  img {
+        width:100%;
+        height: 100%;
+      }
+
+      .sub-judul{
+        margin: 30px;
+        text-align: center;
+      }
+      .sub-judul > hr{
+        width: 150px;
+        margin: auto;
+        border-top: 2px solid #f39c12;
+      }
+
+ 
+
+      #btn-menu{
+        border: none;
+        background-color: transparent;
+      }
+
+      .offcanvas-body{
+        padding: 0px !important;
+      }
+
+
+      .listContact {
+        text-align: left !important;
+        background-color: transparent !important;
+      }
+      .listContact > li{
+        background-color: transparent !important;
+      }
+
+      .contactbox{
+        margin-bottom: 50px;
+        text-align: left !important;
+      }
+
+      #googleMap{
+        height: 100px;
+      }
+
+      .box-item-sosmed {
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          display: flex;
+          text-decoration: none;
+      }
+      .box-item-sosmed > span{
+        font-size: 10px;
+        padding: 5px;
+        color: black;
+        font-style: italic;
+      }
+
+      .box-address{
+        padding-left: 200px;
+        border: 1px solid black;
+      }
+
+      .carousel-caption{
+        color: black !important;
+        right: 5% !important;
+        left: 0% !important;
+        text-align: right !important;
+        bottom: 25% !important;
+      }
+
+      .btnIconMenu{
+        border: 0px !important;
+      }
+
+
+      #services{
+        padding-top: 50px;
+      }
+
+      #galeri{
+        padding-top: 50px;
+        padding-bottom: 30px;
+        /* border-bottom: 0.5px solid rgb(218, 217, 217); */
+      }
+
+
+      #contact {
+        margin-bottom: 50px;
+        padding-top: 50px;
+      }
+
+
+
+
